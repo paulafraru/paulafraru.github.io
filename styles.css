@@ -54,10 +54,6 @@
   article {
     border: none;
   }
-  
-  #section1 article:nth-child(3) {
-    margin-top: 0; /* Remove top margin for the third article in section1 */
-  }
 
   img {
     max-width: 100%;
