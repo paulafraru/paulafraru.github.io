@@ -43,7 +43,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
     grid-gap: 20px;
-    background-color: #6e2c00;
+    background-color: #b5651d;
   }
   
   section {
@@ -64,8 +64,9 @@
   }
 
   table {
-    width: 100%;
+    max-width: 100%;
     border-collapse: collapse;
+    overflow: auto;
   }
   
   th, td {
