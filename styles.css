@@ -12,7 +12,6 @@
     margin: 10px;
     padding: 15px;
     border: 1px solid #ccc;
-    background-color: #ffef96;
   }
   
   p {
@@ -44,7 +43,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
     grid-gap: 20px;
-    background-color: #fadbd8;
+    background-color: #6e2c00;
   }
   
   section {
