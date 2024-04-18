@@ -67,8 +67,12 @@
   
   th, td {
     border: 1px solid #ccc;
-    padding: 15px;
+    padding: 8px;
+    max-width: 100%;
     text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   tr:first-child {
