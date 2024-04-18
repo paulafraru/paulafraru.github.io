@@ -5,7 +5,7 @@
   }
 
   body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', 'Open Sans',Arial, sans-serif;
   }
   
   article, header, nav, section {
@@ -15,10 +15,10 @@
   }
   
   p {
-    max-width: 100%;
+    max-width: 60ch;
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: normal;
+    white-space: nowrap;
   }
   
   h1 {
