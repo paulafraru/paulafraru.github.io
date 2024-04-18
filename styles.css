@@ -1,0 +1,58 @@
+
+
+  body {
+    font-family: 'Roboto', 'Arial', sans-serif;
+  }
+  
+  article, header, nav, section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  p {
+    max-width: 60ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  a:link, a:visited {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #0056b3;
+  }
+  
+  main {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  section {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+  }
+  
+  article {
+    border: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
