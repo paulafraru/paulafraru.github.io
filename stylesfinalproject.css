@@ -1,4 +1,7 @@
-.index h1 {
+.index 
+
+h1 {
+    font-family: "Oswarld",sans-serif;
     font-size: 28px;
     color: #ae3dff;
 }
