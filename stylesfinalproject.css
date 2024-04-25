@@ -11,6 +11,14 @@ body.index h1 {
     text-align: center;
 }
 
+body.index h2 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    color: #61cfff;
+    text-align: center;
+}
+
 body.index img {
     display: block;
     max-width: 100%;
