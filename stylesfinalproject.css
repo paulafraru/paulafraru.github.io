@@ -6,7 +6,7 @@ h1 {
     color: #ae3dff;
 }
 
-body.index img:first-of-type {
+body.index img {
     display: grid;
     max-width: 45%;
     height: auto;
