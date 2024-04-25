@@ -7,7 +7,7 @@ h1 {
 }
 
 body.index img {
-    display: inline-block;
+    display: grid;
     max-width: 45%;
     height: auto;
 }
