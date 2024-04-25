@@ -1,13 +1,13 @@
+body.index {
+    margin: 0;
+    padding: 0;
+}
+
 body.index h1 {   
     font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
     font-style: normal;
     font-size: 40px;
     color: #ae3dff;
-}
-
-body.index {
-    margin: 0;
-    padding: 0;
 }
 
 body.index img {
@@ -17,9 +17,6 @@ body.index img {
     position: relative;
 }
 
-.image-caption {
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
-    padding: 5px;
+body.index .image-caption {
+    text-align: center;
 }
