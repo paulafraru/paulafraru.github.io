@@ -15,7 +15,7 @@ body.index h2 {
     font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
     font-style: normal;
     font-size: 30px;
-    color: #61cfff;
+    color: #2c6ffd;
     text-align: center;
 }
 
@@ -47,7 +47,7 @@ body.index ul li a {
     padding: 10px 20px;
     text-decoration: none;
     color: #fff;
-    background-color: #da98fe;
+    background-color: #862ec1;
     border: 1px solid #007bff;
     border-radius: 5px;
 }
