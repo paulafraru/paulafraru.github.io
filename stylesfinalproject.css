@@ -12,7 +12,7 @@ body.index h1 {
 }
 
 body.index img {
-    display: grid;
+    display: block;
     max-width: 100%;
     height: auto;
     margin: 20px auto;
