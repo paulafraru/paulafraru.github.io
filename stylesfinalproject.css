@@ -12,14 +12,14 @@ body.index h1 {
 }
 
 body.index img {
-    display: block;
+    display: grid;
     max-width: 100%;
     height: auto;
     margin: 20px auto;
 }
 
 body.index .image-caption {
-    text-align: center;
+    text-align: right;
 }
 
 body.index ul {
