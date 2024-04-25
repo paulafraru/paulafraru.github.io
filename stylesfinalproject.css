@@ -1,6 +1,6 @@
 body.index {
-    margin: 5;
-    padding: 5;
+    margin: 10px;
+    padding: 10px;
 }
 
 body.index h1 {   
@@ -20,4 +20,9 @@ body.index img {
 
 body.index .image-caption {
     text-align: center;
+}
+
+body.index ul li {
+    display: inline;
+    margin: 20px auto;
 }
