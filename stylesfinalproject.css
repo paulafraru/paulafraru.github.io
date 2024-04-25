@@ -6,8 +6,16 @@ h1 {
     color: #ae3dff;
 }
 
-body.index img {
+body.index img:first-of-type {
     display: grid;
     max-width: 45%;
     height: auto;
+    position: relative;
+}
+
+.image-caption {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    padding: 5px;
 }
