@@ -8,13 +8,14 @@ body.index h1 {
     font-style: normal;
     font-size: 40px;
     color: #ae3dff;
+    text-align: center;
 }
 
 body.index img {
-    display: grid;
-    max-width: 45%;
+    display: block;
+    max-width: 100%;
     height: auto;
-    position: relative;
+    margin: 20px auto;
 }
 
 body.index .image-caption {
