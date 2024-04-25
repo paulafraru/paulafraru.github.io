@@ -41,3 +41,18 @@ body.index ul li {
     display: inline;
     margin: 20px auto;
 }
+
+body.index ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #989898;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+}
+
+body.index ul li a:hover {
+    background-color: #0056b3;
+    border-color: #002348;
+}
