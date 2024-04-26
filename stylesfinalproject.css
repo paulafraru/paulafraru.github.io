@@ -109,8 +109,15 @@ body.wnba .title-Atlanta-Dream {
 
 body.wnba .title-Chicago-Sky {
     color: #ffffff; 
-    background-color: #418FDE; 
-    border: 2px solid #FFCD00;
+    background-color: #FFCD00; 
+    border: 2px solid #418FDE;
+    border-radius: 10px;
+}
+
+body.wnba .title-Connecticut-Suns {
+    color: #FFF0D8; 
+    background-color: #A6192E; 
+    border: 2px solid #DC4405;
     border-radius: 10px;
 }
 
