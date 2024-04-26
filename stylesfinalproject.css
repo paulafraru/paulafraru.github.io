@@ -100,9 +100,10 @@ body.wnba table th {
     width: max-content;
 }
 
-body.wnba section {
-    border: 1px solid #717171;
-    border-radius: 5px;
-    padding: 20px;
+body.wnba.Atlanta-Dream {
+    color: #CED9E5; 
+    background-color: #418FDE; 
+    border: 2px solid #C8102E;
+    border-radius: 10px;
 }
 
