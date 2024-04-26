@@ -100,10 +100,16 @@ body.wnba table th {
     width: max-content;
 }
 
-body.wnba.Atlanta-Dream {
+body.wnba Atlanta-Dream {
     color: #CED9E5; 
     background-color: #418FDE; 
     border: 2px solid #C8102E;
     border-radius: 10px;
 }
 
+body.wnba Chicago-Sky {
+    color: #CED9E5; 
+    background-color: #418FDE; 
+    border: 2px solid #C8102E;
+    border-radius: 10px;
+}
