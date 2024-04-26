@@ -124,3 +124,29 @@ body.wnba .title-Connecticut-Suns {
     text-align: center;
 }
 
+body.wnba .title-Indiana-Fever {
+    color: #FFCD00; 
+    background-color: #041e42; 
+    border: 2px solid #C8102E;
+    border-radius: 10px;
+    text-align: center;
+}
+
+body.wnba .title-NewYork-Liberty {
+    color: #000000; 
+    background-color: #6ECEB2; 
+    border: 2px solid #FF671F;
+    border-radius: 10px;
+    text-align: center;
+}
+
+body.wnba .title-Washington-Mystics {
+    color: #0C2340; 
+    background-color: #8A8D8F; 
+    border: 2px solid #C8102E;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
