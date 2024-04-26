@@ -97,4 +97,10 @@ body.wnba table {
     border-collapse: collapse;
 }
 
+body.wnba section {
+    border: 1px solid #717171;
+    border-radius: 5px;
+    padding: 20px;
+}
+
 
