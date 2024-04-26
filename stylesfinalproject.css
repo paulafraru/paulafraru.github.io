@@ -15,7 +15,7 @@ body.index h2 {
     font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
     font-style: normal;
     font-size: 30px;
-    color: #2c6ffd;
+    color: #2a81fb;
     text-align: center;
 }
 
@@ -55,4 +55,17 @@ body.index ul li a {
 body.index ul li a:hover {
     background-color: #0056b3;
     border-color: #002348;
+}
+
+
+
+
+body.wnba main {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 1fr);
+    gap: 20px;
+}
+
+body.wnba table {
+    width: 100%;
 }
