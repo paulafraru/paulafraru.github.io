@@ -60,12 +60,15 @@ body.index ul li a:hover {
 
 
 
+
 body.wnba main {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 20px;
 }
 
 body.wnba table {
     width: 100%;
 }
+
+
