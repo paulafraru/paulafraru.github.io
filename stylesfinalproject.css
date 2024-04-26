@@ -60,11 +60,26 @@ body.index ul li a:hover {
 
 
 
+body.wnba h1 {
+    font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-size: 50px;
+    color: #2a0b40;
+    text-align: center;
+}
 
 body.wnba main {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
+}
+
+body.index h2 {
+    font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    color: #2a81fb;
+    text-align: center;
 }
 
 body.wnba.Eastern-conference {
