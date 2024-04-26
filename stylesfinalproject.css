@@ -67,8 +67,17 @@ body.wnba main {
     gap: 20px;
 }
 
+body.wnba .Eastern-conference {
+    grid-column: 1;
+}
+
+body.wnba .Western-conference {
+    grid-column: 2;
+}
+
 body.wnba table {
     width: 100%;
+    border-collapse: collapse;
 }
 
 
