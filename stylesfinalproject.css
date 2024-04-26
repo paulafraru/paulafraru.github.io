@@ -78,7 +78,7 @@ body.wnba h2 {
     font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
     font-style: normal;
     font-size: 30px;
-    color: #2a81fb;
+    color: #380648;
     text-align: center;
 }
 
@@ -97,6 +97,7 @@ body.wnba table {
 
 body.wnba table th {
     text-align: center;
+    width: max-content;
 }
 
 body.wnba section {
