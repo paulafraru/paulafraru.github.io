@@ -84,12 +84,12 @@ body.index h2 {
 
 body.wnba.Eastern-conference {
     grid-column: 1;
-    text-align: left;
+    text-align: center;
 }
 
 body.wnba.Western-conference {
     grid-column: 2;
-    text-align: left;
+    text-align: center;
 }
 
 body.wnba table {
