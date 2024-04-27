@@ -95,9 +95,11 @@ body.wnba table {
     border-collapse: collapse;
 }
 
-body.wnba table th {
+body.wnba table th td {
     text-align: center;
     width: max-content;
+    font-family: Cambria, serif;
+    font-size: 15px;
 }
 
 body.wnba .title-Atlanta-Dream {
