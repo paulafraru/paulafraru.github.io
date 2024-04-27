@@ -154,5 +154,12 @@ body.wnba .title-Washington-Mystics {
     padding: 5px 10px;
 }
 
-
+body.wnba .title-Dallas-Wings {
+    color: #c4d600; 
+    background-color: #0c2340; 
+    border: 2px solid #00a9e0;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
 
