@@ -57,6 +57,10 @@ body.index ul li a:hover {
 
 
 
+body.wnba {
+    margin: 10px;
+    padding: 10px;
+}
 
 body.wnba h1 {
     font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
@@ -224,6 +228,11 @@ body.wnba .news {
 
 
 
+
+body.euroleague {
+    margin: 10px;
+    padding: 10px;
+}
 
 body.euroleague h1 {
     font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
@@ -417,4 +426,5 @@ body.euroleague .top-plays {
     margin-top: 20px; 
     width: 100%;
 }
+
 
