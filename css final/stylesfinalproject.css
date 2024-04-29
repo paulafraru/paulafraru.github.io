@@ -21,9 +21,9 @@ body.index h2 {
 
 body.index img {
     display: block;
-    max-width: 100%;
+    max-width: 75%;
     height: auto;
-    margin: 20px auto;
+    margin: 30px auto;
 }
 
 body.index ul {
