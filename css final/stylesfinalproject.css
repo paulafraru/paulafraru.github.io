@@ -346,8 +346,8 @@ body.euroleague .title-Casademont {
 
 body.euroleague .title-DVTK {
     color: #ff0000; 
-    background-color: #ffffff; 
-    border: 2px solid #160093;
+    background-color: #160093; 
+    border: 2px solid #ffffff;
     border-radius: 10px;
     text-align: center;
     padding: 5px 10px;
@@ -372,8 +372,8 @@ body.euroleague .title-Perfumerias {
 }
 
 body.euroleague .title-Serco {
-    color: #003d10; 
-    background-color: #ffffff; 
+    color: #ffffff; 
+    background-color: #003d10; 
     border: 2px solid #725a1f;
     border-radius: 10px;
     text-align: center;
