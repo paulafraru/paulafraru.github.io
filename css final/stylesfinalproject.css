@@ -93,13 +93,13 @@ body.wnba.Western-conference {
 }
 
 body.wnba table {
-    width: 100%;
+    width: 85%;
     border-collapse: collapse;
 }
 
 body.wnba table th td {
     text-align: left;
-    width: max-content;
+    width: 100px;
     font-family: Cambria, serif;
     font-size: 15px;
 }
@@ -265,13 +265,13 @@ body.euroleague.Group2 {
 }
 
 body.euroleague table {
-    width: 100%;
+    width: 85%;
     border-collapse: collapse;
 }
 
 body.euroleague table th td {
     text-align: left;
-    width: max-content;
+    width: 100px;
     font-family: Cambria, serif;
     font-size: 15px;
 }
