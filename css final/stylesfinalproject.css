@@ -56,6 +56,8 @@ body.index ul li a:hover {
 
 
 
+
+
 body.wnba h1 {
     font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
     font-style: normal;
@@ -209,6 +211,7 @@ body.wnba .title-Seattle-Storm {
 
 
 
+
 body.euroleague h1 {
     font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
     font-style: normal;
@@ -250,3 +253,40 @@ body.euroleague table th td {
     font-family: Cambria, serif;
     font-size: 15px;
 }
+
+body.wnba .title-Sepsi {
+    color: #ffffff; 
+    background-color: #15B600; 
+    border: 2px solid #C9FB4A;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.wnba .title-Famila {
+    color: #090042; 
+    background-color: #c45200; 
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.wnba .title-Sepsi {
+    color: #ffffff; 
+    background-color: #15B600; 
+    border: 2px solid #C9FB4A;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.wnba .title-Famila {
+    color: #090042; 
+    background-color: #c45200; 
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
