@@ -248,7 +248,7 @@ body.euroleague table {
 }
 
 body.euroleague table th td {
-    text-align: center;
+    text-align: start;
     width: max-content;
     font-family: Cambria, serif;
     font-size: 15px;
