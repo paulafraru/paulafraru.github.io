@@ -418,9 +418,3 @@ body.euroleague .top-plays {
     width: 100%;
 }
 
-body.euroleague .news {
-    grid-column: span 4; 
-    text-align: center; 
-    margin-top: 20px; 
-    width: 100%;
-}
