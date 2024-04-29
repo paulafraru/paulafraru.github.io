@@ -290,3 +290,38 @@ body.wnba .title-Fenerbahce {
     padding: 5px 10px;
 }
 
+body.wnba .title-LDLC {
+    color: #ffc0f8; 
+    background-color: #ffffff; 
+    border: 2px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.wnba .title-AZS {
+    color: #eeeeee; 
+    background-color: #0b290d; 
+    border: 2px solid #930000;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.wnba .title-Valencia {
+    color: #ffffff; 
+    background-color: #c45200; 
+    border: 2px solid #930000;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.wnba .title-Virtus {
+    color: #ff0202; 
+    background-color: #080300; 
+    border: 2px solid #006bde;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
