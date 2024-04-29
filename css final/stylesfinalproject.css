@@ -68,7 +68,7 @@ body.wnba h1 {
 
 body.wnba main {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 30px;
 }
 
@@ -209,9 +209,10 @@ body.wnba .title-Seattle-Storm {
 }
 
 body.wnba .top-plays {
-    grid-column: span 3; 
+    grid-column: 3; 
     text-align: center; 
     margin-top: 20px; 
+    width: 100%;
 }
 
 
