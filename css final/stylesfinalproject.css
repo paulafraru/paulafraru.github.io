@@ -406,7 +406,7 @@ body.euroleague .title-Praha {
 }
 
 body.euroleague .top-plays {
-    grid-column: span 3; 
+    grid-column: 3; 
     text-align: center; 
     margin-top: 20px; 
     width: 100%;
