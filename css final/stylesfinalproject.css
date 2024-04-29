@@ -26,10 +26,6 @@ body.index img {
     margin: 20px auto;
 }
 
-body.index .image-caption {
-    text-align: right;
-}
-
 body.index ul {
     list-style-type: none;
     padding: 0;
