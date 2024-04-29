@@ -345,18 +345,54 @@ body.euroleague .title-Casademont {
 }
 
 body.euroleague .title-DVTK {
-    color: #ffffff; 
-    background-color: #c45200; 
-    border: 2px solid #930000;
+    color: #ff0000; 
+    background-color: #ffffff; 
+    border: 2px solid #160093;
     border-radius: 10px;
     text-align: center;
     padding: 5px 10px;
 }
 
 body.euroleague .title-KGHM {
+    color: #000000; 
+    background-color: #cc3600; 
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.euroleague .title-Perfumerias {
+    color: #fc9700; 
+    background-color: #00b3d7; 
+    border: 2px solid #0008ff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.euroleague .title-Serco {
+    color: #003d10; 
+    background-color: #ffffff; 
+    border: 2px solid #725a1f;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.euroleague .title-Villenueve {
     color: #ff0202; 
-    background-color: #080300; 
-    border: 2px solid #006bde;
+    background-color: #080000; 
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body.euroleague .title-Praha {
+    color: #0281ff; 
+    background-color: #9fff4a; 
+    border: 2px solid #ffb404;
     border-radius: 10px;
     text-align: center;
     padding: 5px 10px;
