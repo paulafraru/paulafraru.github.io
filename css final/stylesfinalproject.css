@@ -395,16 +395,16 @@ body.euroleague .title-Perfumerias {
 
 body.euroleague .title-Serco {
     color: #ffffff; 
-    background-color: #003d10; 
-    border: 2px solid #725a1f;
+    background-color: #725a1f; 
+    border: 2px solid #003d10;
     border-radius: 10px;
     text-align: center;
     padding: 5px 10px;
 }
 
 body.euroleague .title-Villenueve {
-    color: #ff0202; 
-    background-color: #080000; 
+    color: #000000; 
+    background-color: #ff0202; 
     border: 2px solid #ffffff;
     border-radius: 10px;
     text-align: center;
