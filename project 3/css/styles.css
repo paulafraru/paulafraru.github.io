@@ -1,0 +1,82 @@
+
+  body, h1, h2, h3, p, ul, li, table, th, td {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: 'Roboto', 'Open Sans',Arial, sans-serif;
+  }
+  
+  article, header, nav, section {
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+  }
+  
+  p {
+    max-width: 60ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  a:link, a:visited {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #0056b3;
+  }
+  
+  main {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  section {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+  }
+
+  article {
+    border: none;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  table {
+    max-width: 100%;
+    border-collapse: collapse;
+    overflow: auto;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 6px;
+    max-width: 100%;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  tr:first-child {
+    background-color: #f2f2f2;
+  }
+  
