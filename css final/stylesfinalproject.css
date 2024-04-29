@@ -272,19 +272,19 @@ body.wnba .title-Famila {
     padding: 5px 10px;
 }
 
-body.wnba .title-Sepsi {
-    color: #ffffff; 
-    background-color: #15B600; 
-    border: 2px solid #C9FB4A;
+body.wnba .title-Cukurova {
+    color: #dc6e00; 
+    background-color: #252f4f; 
+    border: 2px solid #ff0000;
     border-radius: 10px;
     text-align: center;
     padding: 5px 10px;
 }
 
-body.wnba .title-Famila {
-    color: #090042; 
-    background-color: #c45200; 
-    border: 2px solid #ffffff;
+body.wnba .title-Fenerbahce {
+    color: #252f4f; 
+    background-color: #ffff00; 
+    border: 2px solid #000000;
     border-radius: 10px;
     text-align: center;
     padding: 5px 10px;
