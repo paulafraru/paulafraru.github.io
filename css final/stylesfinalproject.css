@@ -216,7 +216,7 @@ body.wnba .top-plays {
 }
 
 body.wnba .news {
-    grid-column: span 3; 
+    grid-column: span 4; 
     text-align: center; 
     margin-top: 20px; 
     width: 100%;
