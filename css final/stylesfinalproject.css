@@ -98,7 +98,7 @@ body.wnba table {
 }
 
 body.wnba table th td {
-    text-align: center;
+    text-align: left;
     width: max-content;
     font-family: Cambria, serif;
     font-size: 15px;
@@ -270,7 +270,7 @@ body.euroleague table {
 }
 
 body.euroleague table th td {
-    text-align: center;
+    text-align: left;
     width: max-content;
     font-family: Cambria, serif;
     font-size: 15px;
