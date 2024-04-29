@@ -208,7 +208,11 @@ body.wnba .title-Seattle-Storm {
     padding: 5px 10px;
 }
 
-
+body.wnba .top-plays {
+    grid-column: span 3; 
+    text-align: center; 
+    margin-top: 20px; 
+}
 
 
 
