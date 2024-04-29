@@ -215,6 +215,12 @@ body.wnba .top-plays {
     width: 100%;
 }
 
+body.wnba .news {
+    grid-column: 3; 
+    text-align: center; 
+    margin-top: 20px; 
+    width: 100%;
+}
 
 
 
@@ -411,3 +417,4 @@ body.euroleague .top-plays {
     margin-top: 20px; 
     width: 100%;
 }
+
