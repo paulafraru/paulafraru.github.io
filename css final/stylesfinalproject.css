@@ -254,7 +254,7 @@ body.euroleague table th td {
     font-size: 15px;
 }
 
-body.wnba .title-Sepsi {
+body.euroleague .title-Sepsi {
     color: #ffffff; 
     background-color: #15B600; 
     border: 2px solid #C9FB4A;
@@ -263,7 +263,7 @@ body.wnba .title-Sepsi {
     padding: 5px 10px;
 }
 
-body.wnba .title-Famila {
+body.euroleague .title-Famila {
     color: #090042; 
     background-color: #c45200; 
     border: 2px solid #ffffff;
@@ -272,7 +272,7 @@ body.wnba .title-Famila {
     padding: 5px 10px;
 }
 
-body.wnba .title-Cukurova {
+body.euroleague .title-Cukurova {
     color: #dc6e00; 
     background-color: #252f4f; 
     border: 2px solid #ff0000;
@@ -281,7 +281,7 @@ body.wnba .title-Cukurova {
     padding: 5px 10px;
 }
 
-body.wnba .title-Fenerbahce {
+body.euroleague .title-Fenerbahce {
     color: #252f4f; 
     background-color: #ffff00; 
     border: 2px solid #000000;
@@ -290,7 +290,7 @@ body.wnba .title-Fenerbahce {
     padding: 5px 10px;
 }
 
-body.wnba .title-LDLC {
+body.euroleague .title-LDLC {
     color: #ffc0f8; 
     background-color: #ffffff; 
     border: 2px solid #000000;
@@ -299,7 +299,7 @@ body.wnba .title-LDLC {
     padding: 5px 10px;
 }
 
-body.wnba .title-AZS {
+body.euroleague .title-AZS {
     color: #eeeeee; 
     background-color: #0b290d; 
     border: 2px solid #930000;
@@ -308,7 +308,7 @@ body.wnba .title-AZS {
     padding: 5px 10px;
 }
 
-body.wnba .title-Valencia {
+body.euroleague .title-Valencia {
     color: #ffffff; 
     background-color: #c45200; 
     border: 2px solid #930000;
@@ -317,7 +317,7 @@ body.wnba .title-Valencia {
     padding: 5px 10px;
 }
 
-body.wnba .title-Virtus {
+body.euroleague .title-Virtus {
     color: #ff0202; 
     background-color: #080300; 
     border: 2px solid #006bde;
