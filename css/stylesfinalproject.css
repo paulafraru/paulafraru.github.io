@@ -26,6 +26,12 @@ body.index img {
     margin: 30px auto;
 }
 
+body.index p {
+    text-align: right;
+    font-family: 'Cambria', serif;
+    font-size: 10px;
+}
+
 body.index ul {
     list-style-type: none;
     padding: 0;
@@ -274,7 +280,7 @@ body.euroleague table {
 body.euroleague table th td {
     text-align: left;
     width: 100px;
-    font-family: Cambria, serif;
+    font-family: 'Cambria', serif;
     font-size: 15px;
 }
 
