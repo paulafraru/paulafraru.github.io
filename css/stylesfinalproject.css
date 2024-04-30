@@ -27,9 +27,9 @@ body.index img {
 }
 
 body.index p {
-    text-align: right;
+    text-align: center;
     font-family: 'Cambria', serif;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 body.index ul {
