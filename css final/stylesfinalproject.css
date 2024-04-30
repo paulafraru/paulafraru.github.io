@@ -101,7 +101,7 @@ body.wnba table {
 body.wnba table th td {
     text-align: left;
     width: 100px;
-    font-family: 'Jacquard 12 Charted', serif;
+    font-family: 'Jacquard 12 Charted', sans-serif;
     font-size: 15px;
 }
 
