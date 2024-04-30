@@ -27,7 +27,7 @@ body.index img {
 }
 
 body.index p {
-    text-align: center;
+    text-align: left;
     font-family: 'Cambria', serif;
     font-size: 15px;
 }
