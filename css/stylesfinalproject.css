@@ -243,7 +243,7 @@ body.euroleague {
 }
 
 body.euroleague h1 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
     font-style: normal;
     font-size: 50px;
     color: #2a0b40;
@@ -257,7 +257,7 @@ body.euroleague main {
 }
 
 body.euroleague h2 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', Impact, 'Arial Narrow Bold', sans-serif;
     font-style: normal;
     font-size: 30px;
     color: #380648;
