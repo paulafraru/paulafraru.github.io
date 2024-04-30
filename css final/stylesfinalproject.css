@@ -55,8 +55,7 @@ body.index ul li a:hover {
 
 
 
-@import url('https://fonts.googleapis.com/css2?family=Jacquard+12+Charted&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&');
-
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12+Charted&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 body.wnba {
     margin: 10px;
@@ -96,13 +95,15 @@ body.wnba.Western-conference {
 body.wnba table {
     width: 85%;
     border-collapse: collapse;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
 }
 
 body.wnba table th td {
     text-align: left;
     width: 100px;
-    font-family: 'Jacquard 12 Charted', sans-serif;
-    font-size: 15px;
 }
 
 body.wnba .title-Atlanta-Dream {
